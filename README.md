@@ -7,7 +7,7 @@
 <h3>Conversão de Imagem para Tons de Cinza e Binarização</h3>
 
 <p align="justify">
-    Este projeto implementa um algoritmo para converter uma imagem colorida em tons de cinza e em uma versão binarizada (preto e branco), utilizando Python. O código foi projetado para funcionar sem a dependência de bibliotecas avançadas como OpenCV, mas utiliza o **Pillow** (biblioteca padrão para manipulação de imagens).
+    Este projeto implementa um algoritmo para converter uma imagem colorida em tons de cinza e em uma versão binarizada (preto e branco), utilizando Python. O código foi projetado para funcionar sem a dependência de bibliotecas avançadas como OpenCV, mas utiliza o <b>Pillow</b> (biblioteca padrão para manipulação de imagens).
 </p>
 
 <h2>Funcionalidades</h2>
